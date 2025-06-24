@@ -1,5 +1,4 @@
 # GSR-Oakbrook
-<!DOCTYPE html>
 <html lang="en" class="scroll-smooth">
 <head>
     <meta charset="UTF-8">
