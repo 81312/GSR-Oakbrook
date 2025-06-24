@@ -107,7 +107,7 @@
                         <div class="p-3 flow-box-mvno rounded-lg">Mint Mobile <span class="text-xs block">(from T-Mobile)</span></div>
                         <div class="p-3 flow-box-mvno rounded-lg">Ultra Mobile <span class="text-xs block">(from T-Mobile)</span></div>
                         <div class="p-3 flow-box-mvno rounded-lg">Lyca Mobile <span class="text-xs block">(from T-Mobile)</span></div>
-                        <div class="p-3 flow-box-mvno rounded-lg">Boost Mobile <span class="text-xs block">(uses AT&T, T-Mobile & own network)</span></div>
+                        <div class="p-3 flow-box-mvno rounded-lg">Boost Mobile <span class="text-xs block">(uses AT&T, T-Mobile & Dish network)</span></div>
                     </div>
                  </div>
             </div>
