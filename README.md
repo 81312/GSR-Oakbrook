@@ -103,7 +103,7 @@
                         <div class="p-3 flow-box-mvno rounded-lg">Visible <span class="text-xs block">(from Verizon)</span></div>
                         <div class="p-3 flow-box-mvno rounded-lg">Metro <span class="text-xs block">(from T-Mobile)</span></div>
                         <div class="p-3 flow-box-mvno rounded-lg">Total <span class="text-xs block">(from Verizon)</span></div>
-                        <div classp-3 flow-box-mvno rounded-lg">Google Fi <span class="text-xs block">(from T-Mobile)</span></div>
+                        <div class="p-3 flow-box-mvno rounded-lg">Google Fi <span class="text-xs block">(from T-Mobile)</span></div>
                         <div class="p-3 flow-box-mvno rounded-lg">Mint Mobile <span class="text-xs block">(from T-Mobile)</span></div>
                         <div class="p-3 flow-box-mvno rounded-lg">Ultra Mobile <span class="text-xs block">(from T-Mobile)</span></div>
                         <div class="p-3 flow-box-mvno rounded-lg">Lyca Mobile <span class="text-xs block">(from T-Mobile)</span></div>
